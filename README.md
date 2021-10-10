@@ -16,6 +16,7 @@ This project was done to practice DOM. With DOM, you have the ability to create,
 * [Contact](#contact)
 
 ## Screenshot
+[Image](https://github.com/wemiibidun/dice_game/blob/main/dice_game_screenshot.png)
 
 ## Technologies (Language, Library and Framework)
 * HTML
