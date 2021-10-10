@@ -11,6 +11,7 @@ This project was done to practice DOM. With DOM, you have the ability to create,
 * [How to Play](#features)
 * [Link to Published Portfolio](#link-to-published-portfolio)
 * [Status](#status)
+* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## Screenshot
@@ -32,6 +33,10 @@ This project was done to practice DOM. With DOM, you have the ability to create,
 
 ## Status
 Project is: _Complete_
+
+
+## Inspiration
+This project was created with the support of [Web Development Bootcamp Course by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/17038694?start=150#overview)
 
 
 ## Summary
