@@ -12,6 +12,7 @@ This project was done to practice DOM. With DOM, you have the ability to create,
 * [Link to Published Portfolio](#link-to-view-project)
 * [Status](#status)
 * [Inspiration](#inspiration)
+* [Summary](#summary)
 * [Contact](#contact)
 
 ## Screenshot
