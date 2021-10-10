@@ -9,7 +9,7 @@ This project was done to practice DOM. With DOM, you have the ability to create,
 * [Screenshot](#screenshot)
 * [Technologies](#technologies-language-library-and-framework)
 * [How to Play](#how-to-play-the-game)
-* [Link to Published Portfolio](#link-to-published-portfolio)
+* [Link to Published Portfolio](#link-to-view-project)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -27,7 +27,7 @@ This project was done to practice DOM. With DOM, you have the ability to create,
 * Determine the winner through the numbers that appear on the dice
 
 
-## Link to View Project
+## Link to Deployed Project
 [Dice_game_webpage](https://wemiibidun.github.io/dice_game/)
 
 
