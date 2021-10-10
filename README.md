@@ -8,7 +8,7 @@ This project was done to practice DOM. With DOM, you have the ability to create,
 ## Table of contents
 * [Screenshot](#screenshot)
 * [Technologies](#technologies-language-library-and-framework)
-* [How to Play](#features)
+* [How to Play](#how-to-play-the-game)
 * [Link to Published Portfolio](#link-to-published-portfolio)
 * [Status](#status)
 * [Inspiration](#inspiration)
