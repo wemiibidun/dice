@@ -9,7 +9,7 @@ This project was done to practice DOM. With DOM, you have the ability to create,
 * [Screenshot](#screenshot)
 * [Technologies](#technologies-language-library-and-framework)
 * [How to Play](#how-to-play-the-game)
-* [Link to Published Portfolio](#link-to-view-project)
+* [Link to Published Portfolio](#link-to-deployed-project)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Summary](#summary)
