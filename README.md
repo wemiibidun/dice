@@ -27,7 +27,7 @@ This project was done to practice DOM. With DOM, you have the ability to create,
 
 
 ## Link to View Project
-[dice_game_webpage](https://wemiibidun.github.io/dice_game/)
+[Dice_game_webpage](https://wemiibidun.github.io/dice_game/)
 
 
 ## Status
@@ -35,7 +35,6 @@ Project is: _Complete_
 
 
 ## Summary
-
 In this project, I improved on my HTML 5, CSS3 and learnt more about DOM in Javascript. DOM is an application programming interface (API) for manipulating HTML and XML documents. It represents a document as a tree of nodes. It provides API that allows you to add, remove, and modify parts of the document effectively.
 
 
