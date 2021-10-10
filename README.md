@@ -1,4 +1,4 @@
-![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/portfolio_resume)
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/dice_game)
 ![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
 
 ## Dice Game
