@@ -1,5 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/dice_game)
-![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+
 
 ## Dice Game
 This project was done to practice DOM. With DOM, you have the ability to create, build and navigate through the structure of a webpage. You can also add, modify, or delete elements and contents in a webpage.
