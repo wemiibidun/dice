@@ -22,8 +22,8 @@ This project was done to practice DOM. With DOM, you have the ability to create,
 ## Technologies (Language, Library and Framework)
 * HTML
 * CSS
-* Javascript
-* DOM
+* Javascript (DOM)
+
 
 ## How to Play the Game
 * Shuffle a dice (this can be done by refreshing the page)
